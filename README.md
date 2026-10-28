@@ -2,7 +2,7 @@
 
 # Description:
 
-Littest Pet Shop Tamagachi
+Littlest Pet Shop Tamagachi
 
 In this lab, the goal is to create a 3D printed system that is interactive. I wanted to create a small system that uses the OLED screen and landed on recreating the Littlest Pet Shop Tamagachis from the early 2000s. On these keychain devices, they depict a pet that you can interact with through buttons or inserting the dangling accessories into the openings on the side. In my version, using a 3D printed enclosure designed in Fusion, the OLED, the esp32, and copper tape I created three interactive points. The 3D print was created with the intention of holding the esp32 and OLED inside snugly so the do not move. I modeled the device based on these dimensions then soldered wires to avoid using a breadboard. The device is snugly fit using styrofoam padding and a snug back. 
 
